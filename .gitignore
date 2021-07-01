@@ -15,3 +15,11 @@
 *.aliases
 *.lvlps
 .cache/
+.DS_Store
+
+# Deplyoment binaries/files
+distribution/vipm/*.vip
+distribution/working/*
+source/data/bin/*.*
+source/lv-builder.json
+source/lv-builder-l3.json
