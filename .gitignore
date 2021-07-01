@@ -21,5 +21,5 @@
 distribution/vipm/*.vip
 distribution/working/*
 source/data/bin/*.*
-source/lv-builder.json
-source/lv-builder-l3.json
+source/lv-builder-default.json
+source/lv-builder-default-version.json
